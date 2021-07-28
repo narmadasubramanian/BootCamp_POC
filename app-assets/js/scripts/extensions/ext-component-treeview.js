@@ -25,7 +25,7 @@ $(document).ready(function () {
     tags: ['7/21/21'],
     nodes: [{
       text: 'Video Recording 1',
-      href: 'videoplayer_page2.html',
+      href: 'app-videoplayer1.html',
     },
     {
       text: 'Video Recording 2',
